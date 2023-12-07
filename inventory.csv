@@ -1,0 +1,5 @@
+product_id,name,category,price,quantity
+1,Apples,Fruits,1.50,100
+2,Bread,Bakery,2.00,50
+3,Milk,Dairy,3.50,30
+...

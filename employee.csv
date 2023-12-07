@@ -1,0 +1,5 @@
+employee_id,name,position,salary
+1,John Doe,Developer,70000.00
+2,Jane Smith,Manager,90000.00
+3,Bob Johnson,Analyst,80000.00
+...
